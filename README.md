@@ -1,3 +1,3 @@
-以下是我的主要專案
+主要專案
 
 1. [yimail](https://github.com/yimail/Yimails "link")（復刻Gmail）
