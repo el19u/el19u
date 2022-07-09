@@ -1,7 +1,7 @@
 Ｈi！　(*´ω｀*)
 
 
-**-- 9th Astro Camp --**
+**-- 五倍紅寶石 ASTRO Camp 9th--**
 
 小組專案
 
