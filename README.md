@@ -1,4 +1,4 @@
-Ｈi,there！ ✌️
+Hi,there！ ✌️
 
 **-- Ruby on Rails --**
 
